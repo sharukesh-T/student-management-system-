@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A practical, beginner-friendly full-stack CRUD web application with React, Django REST Framework, and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
